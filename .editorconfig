@@ -1,6 +1,6 @@
 # Editor configuration, see https://editorconfig.org
-@import "~@savvaslearning/font-poppins/font-poppins.css";
-@import "~@savvaslearning/font-open-sans/font-open-sans.css";
+@import "~@savvaslearning/font-poppins/font-poppins.scss";
+@import "~@savvaslearning/font-open-sans/font-open-sans.scss";
 @import "@savvaslearning/lst-style-variables/color-variables";
 @import "@savvaslearning/lst-style-variables/typography-variables";
 root = true

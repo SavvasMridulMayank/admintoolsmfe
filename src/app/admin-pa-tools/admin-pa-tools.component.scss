@@ -1,3 +1,5 @@
+@import "../../pattool.scss";
+
 .nav-container {
     width: 100%;
     height: 64px;
@@ -17,5 +19,16 @@
 }
 
 .list-group {
-    padding-left: 30px;
+    padding: 30px;
+    list-style: none;
+    background-color: #f3f3f3;
+}
+
+.item-row {
+    padding: 10px;
+    --text-link-color: #026ecb;
+    --text-link-font-family: #{$secondary-font-medium};
+    margin-bottom: 30px;
+    background-color: white;
+    border: 1px solid #e2e2e2;
 }
