@@ -1,4 +1,4 @@
-@import "../../pattool.scss";
+@import "../../pa-admin-tool.scss";
 
 .nav-container {
     width: 100%;
@@ -28,7 +28,7 @@
     padding: 10px;
     --text-link-color: #026ecb;
     --text-link-font-family: #{$secondary-font-medium};
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     background-color: white;
-    border: 1px solid #e2e2e2;
+    border: 2px solid #e2e2e2;
 }
